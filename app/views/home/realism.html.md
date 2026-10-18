@@ -3,14 +3,14 @@
 To those not in the know, Realism (particularly within the 29th) is the
 community practice of teamwork-oriented gameplay mixed with a desire to strive
 towards emulation of historical military traditions. Spawning from an uptick of
-more realistic (for the time) shooters back at the turn of the millenium,
-realism functions radically different from the "death match" style of play more
-regularly seen in games. In Realism style play, an individual soldier's life
+more realistic (for the time) shooters back at the turn of the millennium,
+realism functions radically differently from the "death match" style of play more
+regularly seen in games. In Realism-style play, an individual soldier's life
 matters and the ability to sway the game isn't based on the highest K/D but
 which team operates the most effectively together in a tactic-necessitating
 scenario. In a game where dead men don't speak and there is no respawn timer
 waiting for you after death to herald your return, realism finds its place. If
-this intense style of gameplay experience has you biting at the bit, realism
+this intense style of gameplay experience has you champing at the bit, realism
 may well be for you.
 
 ## Preparation
@@ -32,8 +32,8 @@ useless team members.
 
 When LIVE is called and the round begins, firefights can immediately break out.
 Whether encountered directly outside of your starting point or after the convoy
-entered the area of operation, bombs and bullets will start flying eventually.
-This is when the real heat of realism kicks in; remember, each soldiers has one
+entered the area of operations, bombs and bullets will start flying eventually.
+This is when the real heat of realism kicks in; remember, each soldier has one
 life and dead men tell no tales. With adrenaline pumping through their veins,
 squads will push up to engage with the enemy or dig into their defensive
 positions. It is during this flash of early engagements where battles can be
@@ -51,5 +51,5 @@ of operation, that objective MUST be secured. Team leadership and squad
 leadership will work in concert, directing what remains of their initial
 attacks and changing up their plans on the fly to complete these objectives. It
 is here when the ground pounders truly shine as no plan survives contact with
-the enemy and the actions of a single rifleman can single handedly snatch
+the enemy and the actions of a single rifleman can single-handedly snatch
 victory from the jaws of defeat.
