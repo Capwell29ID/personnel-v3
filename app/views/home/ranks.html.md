@@ -2,9 +2,10 @@
 
 All members of the 29th Infantry Division, 116th Regiment, have
 the opportunity of advancing throughout the regiment and their 
-respective battalions. New members start out as a Private undergoing 
-Basic Training for an entire week. If you show exceptional skills as
-a Private, you may be promoted to a higher rank in our chain of command.
+respective battalions. New members start out as a Recruit undergoing 
+Basic Training.As your skills increase and you demonstrate your 
+dedication to the 29th, you will become eligible for promotion to higher 
+ranks within our chain of command.
 
 "29th Infantry Division" serves as a title of this realism unit. In size, we
 are a Regiment within the Division. US Army units are composed as follows:
